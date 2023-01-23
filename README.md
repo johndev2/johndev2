@@ -1,4 +1,5 @@
-- 👋 Olá, sou @johndev2
-- 👀 Estou interessado em back-end...
-- 🌱 Atualmente estou aprendendo Javascript ( a minha preferida ), porém tenho conhecimentos em C, C++ e Java.
-- 📚 Estudo de engenharia da computação, atualmente no quarto semestre
+- 💻 Olá, sou @johndev2, um desenvolvedor back-end apaixonado.
+- 🚀 Atualmente, estou me especializando em Javascript, mas também tenho experiência em C, C++ e Java.
+- 🎓 Sou estudante de Engenharia da Computação no quarto semestre no @ SENAI CIMATEC (https://www.senaicimatec.com.br/en/)
+- 🤖 Além do desenvolvimento web, também tenho interesse em programação para microcontroladores.
+- 📧 Entre em contato comigo para discutir projetos ou trocar ideias: john@aln.senaicimatec.edu.br
